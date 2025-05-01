@@ -1,3 +1,11 @@
+1 Just image
+
+![Product Name Screen Shot](images/screenshot.png)
+
+2 Image with link
+
+[![Product Name Screen Shot](images/screenshot.png)](https://example.com)
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
